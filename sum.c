@@ -7,5 +7,6 @@ int main(void){
 
 
     printf("The sum is %d",sum);
+    printf("nice ");s
     
 }
